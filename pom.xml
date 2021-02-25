@@ -11,7 +11,7 @@
 	language governing permissions and limitations under the License. -->
 
 
-<!-- Added a nee change in the BE microservice for the QA branch -->
+<!-- Added a new change in the BE microservice for the QA branch -->
 
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
